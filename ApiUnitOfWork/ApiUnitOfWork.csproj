@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiRepositories\ApiRepositories.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="General\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="General\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiDataAccess.deps.json
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiDataAccess.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiDataAccess.pdb
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiModel.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiRepositories.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiUnitOfWork.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiRepositories.pdb
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiUnitOfWork.pdb
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiModel.pdb
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.csproj.AssemblyReference.cache
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.AssemblyInfoInputs.cache
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.AssemblyInfo.cs
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.csproj.CoreCompileInputs.cache
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.csproj.CopyComplete
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.pdb

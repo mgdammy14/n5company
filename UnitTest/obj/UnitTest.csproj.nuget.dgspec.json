@@ -1,0 +1,452 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gonzalopingo/Projects/n5company-backend/UnitTest/UnitTest.csproj": {}
+  },
+  "projects": {
+    "/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/ApiBusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/ApiBusinessLogic.csproj",
+        "projectName": "ApiBusinessLogic",
+        "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/ApiBusinessLogic.csproj",
+        "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
+        "outputPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/ApiUnitOfWork.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/ApiUnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/ApiDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/ApiDataAccess.csproj",
+        "projectName": "ApiDataAccess",
+        "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/ApiDataAccess.csproj",
+        "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
+        "outputPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/ApiRepositories.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/ApiRepositories.csproj"
+              },
+              "/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/ApiUnitOfWork.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/ApiUnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gonzalopingo/Projects/n5company-backend/ApiModel/ApiModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalopingo/Projects/n5company-backend/ApiModel/ApiModel.csproj",
+        "projectName": "ApiModel",
+        "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiModel/ApiModel.csproj",
+        "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
+        "outputPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiModel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/ApiRepositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/ApiRepositories.csproj",
+        "projectName": "ApiRepositories",
+        "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/ApiRepositories.csproj",
+        "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
+        "outputPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/gonzalopingo/Projects/n5company-backend/ApiModel/ApiModel.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiModel/ApiModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/ApiUnitOfWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/ApiUnitOfWork.csproj",
+        "projectName": "ApiUnitOfWork",
+        "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/ApiUnitOfWork.csproj",
+        "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
+        "outputPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/ApiRepositories.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/ApiRepositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gonzalopingo/Projects/n5company-backend/UnitTest/UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalopingo/Projects/n5company-backend/UnitTest/UnitTest.csproj",
+        "projectName": "UnitTest",
+        "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/UnitTest/UnitTest.csproj",
+        "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
+        "outputPath": "/Users/gonzalopingo/Projects/n5company-backend/UnitTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/ApiBusinessLogic.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/ApiBusinessLogic.csproj"
+              },
+              "/Users/gonzalopingo/Projects/n5company-backend/Web-ApiCore/Web-ApiCore.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/Web-ApiCore/Web-ApiCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gonzalopingo/Projects/n5company-backend/Web-ApiCore/Web-ApiCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalopingo/Projects/n5company-backend/Web-ApiCore/Web-ApiCore.csproj",
+        "projectName": "Web-ApiCore",
+        "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/Web-ApiCore/Web-ApiCore.csproj",
+        "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
+        "outputPath": "/Users/gonzalopingo/Projects/n5company-backend/Web-ApiCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/ApiBusinessLogic.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/ApiBusinessLogic.csproj"
+              },
+              "/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/ApiDataAccess.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiDataAccess/ApiDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

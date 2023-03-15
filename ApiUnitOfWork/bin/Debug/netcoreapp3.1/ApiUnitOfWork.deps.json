@@ -1,0 +1,115 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ApiUnitOfWork/1.0.0": {
+        "dependencies": {
+          "ApiRepositories": "1.0.0"
+        },
+        "runtime": {
+          "ApiUnitOfWork.dll": {}
+        }
+      },
+      "Dapper/2.0.123": {
+        "dependencies": {
+          "System.Reflection.Emit.Lightweight": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.123.33578"
+          }
+        }
+      },
+      "Dapper.Contrib/2.0.78": {
+        "dependencies": {
+          "Dapper": "2.0.123",
+          "Microsoft.CSharp": "4.7.0",
+          "System.Reflection.Emit": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Dapper.Contrib.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.78.45418"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "System.Reflection.Emit/4.7.0": {},
+      "System.Reflection.Emit.Lightweight/4.7.0": {},
+      "ApiModel/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.0.123",
+          "Dapper.Contrib": "2.0.78"
+        },
+        "runtime": {
+          "ApiModel.dll": {}
+        }
+      },
+      "ApiRepositories/1.0.0": {
+        "dependencies": {
+          "ApiModel": "1.0.0"
+        },
+        "runtime": {
+          "ApiRepositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiUnitOfWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper/2.0.123": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RDFF4rBLLmbpi6pwkY7q/M6UXHRJEOerplDGE5jwEkP/JGJnBauAClYavNKJPW1yOTWRPIyfj4is3EaJxQXILQ==",
+      "path": "dapper/2.0.123",
+      "hashPath": "dapper.2.0.123.nupkg.sha512"
+    },
+    "Dapper.Contrib/2.0.78": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sUfDVIf8LlHNiz3MfUFodeyRiemfN1JFkPxYjCxFWlwNPg1iQ49mB+0E89TkywWs4X8fiRWOVDQgtH5FtzK5Kw==",
+      "path": "dapper.contrib/2.0.78",
+      "hashPath": "dapper.contrib.2.0.78.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "System.Reflection.Emit/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VR4kk8XLKebQ4MZuKuIni/7oh+QGFmZW3qORd1GvBq/8026OpW501SzT/oypwiQl4TvT8ErnReh/NzY9u+C6wQ==",
+      "path": "system.reflection.emit/4.7.0",
+      "hashPath": "system.reflection.emit.4.7.0.nupkg.sha512"
+    },
+    "System.Reflection.Emit.Lightweight/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a4OLB4IITxAXJeV74MDx49Oq2+PsF6Sml54XAFv+2RyWwtDBcabzoxiiJRhdhx+gaohLh4hEGCLQyBozXoQPqA==",
+      "path": "system.reflection.emit.lightweight/4.7.0",
+      "hashPath": "system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+    },
+    "ApiModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiRepositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Web_ApiCore</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiBusinessLogic\ApiBusinessLogic.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\ApiDataAccess\ApiDataAccess.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Controllers\" />
+    <None Remove="Controllers\Permissions\" />
+    <None Remove="Swashbuckle.AspNetCore" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Controllers\Permissions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+</Project>

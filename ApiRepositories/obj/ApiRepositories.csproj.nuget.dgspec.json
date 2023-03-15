@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/ApiRepositories.csproj": {}
+  },
+  "projects": {
+    "/Users/gonzalopingo/Projects/n5company-backend/ApiModel/ApiModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalopingo/Projects/n5company-backend/ApiModel/ApiModel.csproj",
+        "projectName": "ApiModel",
+        "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiModel/ApiModel.csproj",
+        "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
+        "outputPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiModel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/ApiRepositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/ApiRepositories.csproj",
+        "projectName": "ApiRepositories",
+        "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/ApiRepositories.csproj",
+        "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
+        "outputPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/gonzalopingo/Projects/n5company-backend/ApiModel/ApiModel.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/n5company-backend/ApiModel/ApiModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

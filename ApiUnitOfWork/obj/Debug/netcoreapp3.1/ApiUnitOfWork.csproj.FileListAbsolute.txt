@@ -1,0 +1,15 @@
+/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/bin/Debug/netcoreapp3.1/ApiUnitOfWork.deps.json
+/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/bin/Debug/netcoreapp3.1/ApiUnitOfWork.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/bin/Debug/netcoreapp3.1/ApiUnitOfWork.pdb
+/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/bin/Debug/netcoreapp3.1/ApiModel.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/bin/Debug/netcoreapp3.1/ApiRepositories.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/bin/Debug/netcoreapp3.1/ApiRepositories.pdb
+/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/bin/Debug/netcoreapp3.1/ApiModel.pdb
+/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.csproj.AssemblyReference.cache
+/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.AssemblyInfoInputs.cache
+/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.AssemblyInfo.cs
+/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.csproj.CoreCompileInputs.cache
+/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.csproj.CopyComplete
+/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.pdb

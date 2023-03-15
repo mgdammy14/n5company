@@ -1,0 +1,10 @@
+/Users/gonzalopingo/Projects/n5company-backend/ApiModel/bin/Debug/netcoreapp3.1/ApiModel.deps.json
+/Users/gonzalopingo/Projects/n5company-backend/ApiModel/bin/Debug/netcoreapp3.1/ApiModel.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiModel/bin/Debug/netcoreapp3.1/ApiModel.pdb
+/Users/gonzalopingo/Projects/n5company-backend/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.csproj.AssemblyReference.cache
+/Users/gonzalopingo/Projects/n5company-backend/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gonzalopingo/Projects/n5company-backend/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.AssemblyInfoInputs.cache
+/Users/gonzalopingo/Projects/n5company-backend/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.AssemblyInfo.cs
+/Users/gonzalopingo/Projects/n5company-backend/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.csproj.CoreCompileInputs.cache
+/Users/gonzalopingo/Projects/n5company-backend/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.pdb

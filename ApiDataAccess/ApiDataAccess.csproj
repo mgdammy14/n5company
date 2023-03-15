@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiRepositories\ApiRepositories.csproj" />
+    <ProjectReference Include="..\ApiUnitOfWork\ApiUnitOfWork.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="General\" />
+    <None Remove="Dapper.Contrib" />
+    <None Remove="System.Data.SqlClient" />
+    <None Remove="Permissions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="General\" />
+    <Folder Include="Permissions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Dapper.Contrib" Version="2.0.78" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+</Project>

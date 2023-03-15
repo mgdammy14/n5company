@@ -1,0 +1,17 @@
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/bin/Debug/netcoreapp3.1/ApiBusinessLogic.deps.json
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/bin/Debug/netcoreapp3.1/ApiBusinessLogic.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/bin/Debug/netcoreapp3.1/ApiBusinessLogic.pdb
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/bin/Debug/netcoreapp3.1/ApiModel.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/bin/Debug/netcoreapp3.1/ApiRepositories.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/bin/Debug/netcoreapp3.1/ApiUnitOfWork.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/bin/Debug/netcoreapp3.1/ApiUnitOfWork.pdb
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/bin/Debug/netcoreapp3.1/ApiModel.pdb
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/bin/Debug/netcoreapp3.1/ApiRepositories.pdb
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/obj/Debug/netcoreapp3.1/ApiBusinessLogic.csproj.AssemblyReference.cache
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/obj/Debug/netcoreapp3.1/ApiBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/obj/Debug/netcoreapp3.1/ApiBusinessLogic.AssemblyInfoInputs.cache
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/obj/Debug/netcoreapp3.1/ApiBusinessLogic.AssemblyInfo.cs
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/obj/Debug/netcoreapp3.1/ApiBusinessLogic.csproj.CoreCompileInputs.cache
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/obj/Debug/netcoreapp3.1/ApiBusinessLogic.csproj.CopyComplete
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/obj/Debug/netcoreapp3.1/ApiBusinessLogic.dll
+/Users/gonzalopingo/Projects/n5company-backend/ApiBusinessLogic/obj/Debug/netcoreapp3.1/ApiBusinessLogic.pdb

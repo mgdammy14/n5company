@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiUnitOfWork\ApiUnitOfWork.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Implementation\" />
+    <None Remove="Interfaces\" />
+    <None Remove="Implementation\Permissions\" />
+    <None Remove="Interfaces\Permissions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Implementation\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Implementation\Permissions\" />
+    <Folder Include="Interfaces\Permissions\" />
+  </ItemGroup>
+</Project>
