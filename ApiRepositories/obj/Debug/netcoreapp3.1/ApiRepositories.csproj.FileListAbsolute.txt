@@ -11,3 +11,16 @@
 /Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.csproj.CopyComplete
 /Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.dll
 /Users/gonzalopingo/Projects/n5company-backend/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.pdb
+D:\Proyectos\Gonzola\n5company\ApiRepositories\bin\Debug\netcoreapp3.1\ApiRepositories.deps.json
+D:\Proyectos\Gonzola\n5company\ApiRepositories\bin\Debug\netcoreapp3.1\ApiRepositories.dll
+D:\Proyectos\Gonzola\n5company\ApiRepositories\bin\Debug\netcoreapp3.1\ApiRepositories.pdb
+D:\Proyectos\Gonzola\n5company\ApiRepositories\bin\Debug\netcoreapp3.1\ApiModel.dll
+D:\Proyectos\Gonzola\n5company\ApiRepositories\bin\Debug\netcoreapp3.1\ApiModel.pdb
+D:\Proyectos\Gonzola\n5company\ApiRepositories\obj\Debug\netcoreapp3.1\ApiRepositories.csproj.AssemblyReference.cache
+D:\Proyectos\Gonzola\n5company\ApiRepositories\obj\Debug\netcoreapp3.1\ApiRepositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Gonzola\n5company\ApiRepositories\obj\Debug\netcoreapp3.1\ApiRepositories.AssemblyInfoInputs.cache
+D:\Proyectos\Gonzola\n5company\ApiRepositories\obj\Debug\netcoreapp3.1\ApiRepositories.AssemblyInfo.cs
+D:\Proyectos\Gonzola\n5company\ApiRepositories\obj\Debug\netcoreapp3.1\ApiRepositories.csproj.CoreCompileInputs.cache
+D:\Proyectos\Gonzola\n5company\ApiRepositories\obj\Debug\netcoreapp3.1\ApiRepositories.csproj.CopyComplete
+D:\Proyectos\Gonzola\n5company\ApiRepositories\obj\Debug\netcoreapp3.1\ApiRepositories.dll
+D:\Proyectos\Gonzola\n5company\ApiRepositories\obj\Debug\netcoreapp3.1\ApiRepositories.pdb
