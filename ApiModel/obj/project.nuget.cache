@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "XYJP0jJUS46QWUUzAYyVHkmrcrTANVgPu33QVWKE01sJ0HJTsk3evN9/LRKwsaxkaIVQx7bDl7T4Nw9AXnhICQ==",
+  "dgSpecHash": "PBri2DOHRq713lMnm3BIreLIeSPFpKC17chLuOvzbp+Br6KN4KAjQty7asi9EzXj/+KuIlMSB+kl7yfjAVVUDg==",
   "success": true,
-  "projectFilePath": "/Users/gonzalopingo/Projects/n5company-backend/ApiModel/ApiModel.csproj",
+  "projectFilePath": "D:\\Proyectos\\Gonzola\\n5company\\ApiModel\\ApiModel.csproj",
   "expectedPackageFiles": [
-    "/Users/gonzalopingo/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
-    "/Users/gonzalopingo/.nuget/packages/dapper.contrib/2.0.78/dapper.contrib.2.0.78.nupkg.sha512",
-    "/Users/gonzalopingo/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
-    "/Users/gonzalopingo/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
-    "/Users/gonzalopingo/.nuget/packages/system.reflection.emit.lightweight/4.7.0/system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+    "C:\\Users\\jairo\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\jairo\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
+    "C:\\Users\\jairo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\jairo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\jairo\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
