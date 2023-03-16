@@ -9,7 +9,7 @@ namespace Web_ApiCore.Controllers.Permissions
     [Route("api/permission")]
     public class PermissionController : Controller
     {
-        private ResponseDTO _responseDTO;
+        private ResponseDTO _responseDTO = new ResponseDTO();
         private IPermissionLogic _logic;
         public PermissionController(IPermissionLogic logic)
         {
