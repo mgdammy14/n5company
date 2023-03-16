@@ -8,3 +8,13 @@
 /Users/gonzalopingo/Projects/n5company-backend/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.csproj.CoreCompileInputs.cache
 /Users/gonzalopingo/Projects/n5company-backend/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.dll
 /Users/gonzalopingo/Projects/n5company-backend/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.pdb
+D:\Proyectos\Gonzola\n5company\ApiModel\bin\Debug\netcoreapp3.1\ApiModel.deps.json
+D:\Proyectos\Gonzola\n5company\ApiModel\bin\Debug\netcoreapp3.1\ApiModel.dll
+D:\Proyectos\Gonzola\n5company\ApiModel\bin\Debug\netcoreapp3.1\ApiModel.pdb
+D:\Proyectos\Gonzola\n5company\ApiModel\obj\Debug\netcoreapp3.1\ApiModel.csproj.AssemblyReference.cache
+D:\Proyectos\Gonzola\n5company\ApiModel\obj\Debug\netcoreapp3.1\ApiModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Gonzola\n5company\ApiModel\obj\Debug\netcoreapp3.1\ApiModel.AssemblyInfoInputs.cache
+D:\Proyectos\Gonzola\n5company\ApiModel\obj\Debug\netcoreapp3.1\ApiModel.AssemblyInfo.cs
+D:\Proyectos\Gonzola\n5company\ApiModel\obj\Debug\netcoreapp3.1\ApiModel.csproj.CoreCompileInputs.cache
+D:\Proyectos\Gonzola\n5company\ApiModel\obj\Debug\netcoreapp3.1\ApiModel.dll
+D:\Proyectos\Gonzola\n5company\ApiModel\obj\Debug\netcoreapp3.1\ApiModel.pdb
